@@ -1,4 +1,8 @@
-#Merge sort
+'''
+@Description: Run merge sort on a list of 10 randomly generated numbers.
+@Author: Shweta Medhekar
+@Created Date: Feb 2011
+'''
 
 from random import randint
 import sys
