@@ -1,4 +1,8 @@
-#create a linked list from scratch
+'''
+@Description: Create a linked list from scratch. Adding, deleting, printing, finding elements in a list.
+@Author: Shweta Medhekar
+@Created Date: Feb 2011
+'''
 
 class node(object):
     def __init__(self,value):
