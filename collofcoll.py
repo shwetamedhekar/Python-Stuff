@@ -1,6 +1,9 @@
-#collection of collection. Anything other than dict as dict is index:value
-#only problem with code is infinite loop if same elment present in contiguous locations
-
+'''
+@Description: This is to create an iterator to step through a collection of collection without using the "yield" keyword.
+                      (Anything other than dict as dict will work as dict is a index:value)
+@Author: Shweta Medhekar
+@Created Date: Feb 2011
+'''
 import sys
 
 class myIterator(object):
