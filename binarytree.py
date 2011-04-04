@@ -1,4 +1,9 @@
-#create binary tree and some functions to traverse, succesor, find
+'''
+@Description: Create a binary tree and run some functions to traverse, get succesor, get predecessor, find element, add element
+@Author: Shweta Medhekar
+@Created Date: Feb 2011
+'''
+
 from random import randint
 
 class node(object):
