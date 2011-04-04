@@ -1,8 +1,11 @@
-#there is a package heapq that can be directly used
-
-#heap - starts with x[1]
-#left -> 2i
-#right -> 2i+1
+'''
+@Description: Create a heap from scratch, with 2 functions add elements to heap, remove element from heap as a sorted list
+                      heap - starts with x[1]
+                      left -> 2i
+                      right -> 2i+1
+@Author: Shweta Medhekar
+@Created Date: Feb 2011
+'''
 
 from random import randint
 import sys
