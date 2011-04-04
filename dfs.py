@@ -1,5 +1,8 @@
-#graph defination as adjacency lists
-
+'''
+@Description: Running dfs on a graph defined as an adjacency list.
+@Author: Shweta Medhekar
+@Created Date: Feb 2011
+'''
 import sys
 
 def dfs(g):
